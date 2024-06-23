@@ -1,6 +1,7 @@
 # dighum101
 DIGHUM 101 Individual Project Repository
 Analyzing Salary Trends for Ai/Machine Learning Jobs in Correlation to Popularity
+<img title="a title" alt="Alt text" src="download.jpg">
 ### Abstract
 #### Topic:
 analyzing salary trends for AI/Machine Learning jobs in correlation to popularity
